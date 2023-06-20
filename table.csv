@@ -1,0 +1,3 @@
+Domain,MX,SPF,DMARC
+bhos.edu.az,+,+,-
+socar.az,+,+,+

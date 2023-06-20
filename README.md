@@ -12,6 +12,6 @@ Checks MX, SPF and DMARC records
 
 
 ```
-./checkerForMany.sh domain.txt > table.csv
+./checkerForMany.sh domains.txt > table.csv
 ```
 

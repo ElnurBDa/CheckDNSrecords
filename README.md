@@ -7,7 +7,7 @@ Checks MX, SPF and DMARC records
 ```
 
 ```
-./checkerForMany.sh domain.txt
+./checkerForMany.sh domains.txt
 ```
 
 

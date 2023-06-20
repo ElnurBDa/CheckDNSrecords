@@ -1,5 +1,5 @@
 # CheckDNSrecords
-Checks MX, SPF and DMARC records
+Checks MX, SPF and DMARC records with nslookup and outputs it in readable format. 
 
 # How to use
 checking one domain:
